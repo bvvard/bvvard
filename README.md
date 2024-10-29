@@ -2,14 +2,10 @@
 
 I'm a Cybersecurity porfessional, specializing in NIST 800-171 & CMMC 2.0. I’m passionate about open source projects and always eager to learn new things in the field of secdevops, sysadmin, cloud, and security!
 
----
-
 ## About Me
 - 🌱 Currently working on an open source SIEM platform.
 - 🏆 Fun fact: I love finding new ways to brew coffee.
 - 💬 Ask me about the state of CMMC compliance in the DiB.
-
----
 
 ## Skills & Tools
 
@@ -23,7 +19,6 @@ I'm a Cybersecurity porfessional, specializing in NIST 800-171 & CMMC 2.0. I’m
 ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-
 
 ### 🛠 DevOps 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
