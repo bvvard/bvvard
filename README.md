@@ -1,15 +1,21 @@
 # Hello 👋, I'm Brian [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-w-7a71b715a/)
 
-I'm an **Incident Response Manager** and **Cybersecurity Professional** with a strong focus on **NIST 800-171** and **CMMC 2.0** compliance. I’m passionate about open-source projects and continuously exploring new areas in **DevSecOps**, **Systems Administration**, **Data Visualization**, and all things security-related!
+🌐 **Incident Response Manager** | 💻 **Cybersecurity Professional** | ☁️ **DevSecOps Enthusiast**
 
-## About Me
-- 🌱 Currently working on an open-source **SIEM platform** aimed at enhancing security incident detection, analysis, and response.
-- ☕ Fun Fact: I'm a coffee enthusiast and enjoy experimenting with different brewing techniques to find the perfect cup.
-- 💬 Feel free to ask me about **CMMC compliance** and its impact on the **Defense Industrial Base (DiB)**.
+With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedicated to enhancing security through both open-source projects and ongoing professional development. Passionate about **DevSecOps**, **Systems Administration**, **Data Visualization**, and all things security-related, I strive to make the digital world safer, one step at a time.
 
 ---
 
-## Skills & Tools
+## About Me 🚀
+- 🌱 Currently developing an open-source **SIEM platform** focused on optimizing security incident detection, analysis, and response.
+- ☕ Coffee enthusiast, experimenting with various brewing techniques in search of the perfect cup.
+- 🔍 Expertise in **CMMC compliance** with a deep understanding of its implications for the **Defense Industrial Base (DiB)**.
+
+---
+
+## Skills & Tools 🛠️
+
+Explore my skillset by expanding each section below:
 
 <details>
 <summary>☁️ Platforms & Systems</summary>
@@ -37,7 +43,7 @@ I'm an **Incident Response Manager** and **Cybersecurity Professional** with a s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash / ZSH](https://img.shields.io/badge/Bash%20/%20ZSH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </details>
@@ -95,9 +101,8 @@ I'm an **Incident Response Manager** and **Cybersecurity Professional** with a s
 ![Suricata](https://img.shields.io/badge/Suricata-E23E57?style=for-the-badge&logo=suricata&logoColor=white)
 ![ZEEK](https://img.shields.io/badge/ZEEK-007ACC?style=for-the-badge&logo=zeek&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=snort&logoColor=white)
-![HPing3](https://img.shields.io/badge/HPing3-008080?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-000080?style=for-the-badge&logo=nmap&logoColor=white)
 ![TheHive](https://img.shields.io/badge/TheHive-F5A623?style=for-the-badge&logo=thehive&logoColor=white)
-![Moloch](https://img.shields.io/badge/Moloch-2D8CFF?style=for-the-badge&logo=moloch&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white)
 
 </details>
@@ -119,10 +124,10 @@ I'm an **Incident Response Manager** and **Cybersecurity Professional** with a s
 
 ---
 
-## Certifications
+## Certifications 🎓
 
 - **Penetration Testing, Incident Response and Forensics** - IBM  
-  [![IBM](https://img.shields.io/badge/IBM-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.linkedin.com/in/brian-w-7a71b715a/details/certifications/)
+  [![IBM](https://img.shields.io/badge/IBM-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/8d17b3af-fa5f-4b3b-9caf-722347aad8a1)
 
 - **(ISC)² Candidate** - ISC²  
   [![ISC2](https://img.shields.io/badge/ISC²-006400?style=for-the-badge&logo=isc2&logoColor=white)](https://www.credly.com/badges/050ca5a0-1b80-4b1d-a7b6-ba46f847d254)
@@ -134,3 +139,4 @@ I'm an **Incident Response Manager** and **Cybersecurity Professional** with a s
   [![MCC](https://img.shields.io/badge/MCC-Certified%20in%20Cybersecurity-blue?style=for-the-badge)](https://www.linkedin.com/in/brian-w-7a71b715a/details/certifications/)
 
 ---
+
