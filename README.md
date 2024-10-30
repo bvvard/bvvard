@@ -134,12 +134,3 @@ I'm an **Incident Response Manager** and **Cybersecurity Professional** with a s
   [![MCC](https://img.shields.io/badge/MCC-Certified%20in%20Cybersecurity-blue?style=for-the-badge)](https://www.linkedin.com/in/brian-w-7a71b715a/details/certifications/)
 
 ---
-
-
-
-
-
-
-
-
-
