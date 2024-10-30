@@ -4,7 +4,7 @@
 
 With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedicated to enhancing security through both open-source projects and ongoing professional development. Passionate about **DevSecOps**, **System Engineering**, **Data Visualization**, and all things security-related.
 
-## About Me 🚀
+### About Me 🚀
 - 🌱 Currently developing an open-source **SIEM platform** focused on optimizing security incident detection, analysis, and response.
 - ☕ Coffee enthusiast, experimenting with various brewing techniques in search of the perfect cup.
 - 🔍 Expertise in **CMMC compliance** with a deep understanding of its implications for the **Defense Industrial Base (DiB)**.
@@ -12,7 +12,6 @@ With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedic
 <hr style="border:1px solid #4d4d4d; margin: 20px 0;">
 
 ## Skills & Tools 🛠️
-
 ### ☁️ Platforms & Systems
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -76,10 +75,9 @@ With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedic
 
 <hr style="border:1px solid #4d4d4d; margin: 20px 0;">
 
-## Certifications 🎓
-
-![IBM Penetration Testing, Incident Response & Forensics](https://img.shields.io/badge/IBM-PenTesting%2C%20IR%20%26%20Forensics-1F70C1?style=flat-square&logo=ibm&logoColor=white)
-![ISC2 Candidate](https://img.shields.io/badge/(ISC)²-Candidate-006400?style=flat-square&logo=isc2&logoColor=white)
-![Cisco Networking Academy](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Security Onion Certified Professional](https://img.shields.io/badge/Security%20Onion-Certified%20Professional-333333?style=flat-square&logo=shield&logoColor=white)
-![MCC Certified in Cybersecurity](https://img.shields.io/badge/MCC-Certified%20in%20Cybersecurity-blue?style=flat-square&logo=gov&logoColor=white)
+### Certifications 🎓
+![IBM PenTesting, IR & Forensics](https://img.shields.io/badge/IBM-PenTesting,%20IR%20&%20Forensics-1F70C1?style=flat&logo=ibm&logoColor=white)
+![(ISC)² Candidate](https://img.shields.io/badge/(ISC)²-Candidate-006400?style=flat&logo=isc2&logoColor=white)
+![Cisco Networking Academy](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Security Onion Certified Professional](https://img.shields.io/badge/Security%20Onion-Certified%20Professional-333333?style=flat&logo=shield&logoColor=white)
+![MCC Certified in Cybersecurity](https://img.shields.io/badge/MCC-Certified%20in%20Cybersecurity-blue?style=flat&logo=gov&logoColor=white)
