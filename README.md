@@ -1,4 +1,4 @@
-# Hello 👋, I'm Brian [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-w-7a71b715a/) ![Open Source ❤️](https://img.shields.io/badge/Open%20Source-3FB950?style=flat-square&logo=open-source-initiative&logoColor=white)
+# Hello 👋, I'm Brian [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-w-7a71b715a/) ![Open Source ❤️](https://img.shields.io/badge/Open%20Source-3FB950?style=flat-square&logo=open-source-initiative&logoColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 🌐 **Incident Response Manager** | 💻 **Cybersecurity Professional** | ☁️ **DevSecOps Enthusiast**
 
@@ -8,6 +8,8 @@ With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedic
 - 🌱 Currently developing an open-source **SIEM platform** focused on optimizing security incident detection, analysis, and response.
 - ☕ Coffee enthusiast, experimenting with various brewing techniques in search of the perfect cup.
 - 🔍 Expertise in **CMMC compliance** with a deep understanding of its implications for the **Defense Industrial Base (DiB)**.
+
+<hr style="border:1px solid #4d4d4d; margin: 20px 0;">
 
 ## Skills & Tools 🛠️
 
@@ -22,7 +24,7 @@ With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedic
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### 🚀 Languages
+### ➰ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash / ZSH](https://img.shields.io/badge/Bash%20/%20ZSH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -72,10 +74,12 @@ With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedic
 ![FTK](https://img.shields.io/badge/FTK-212121?style=flat-square&logo=accessdata&logoColor=white)
 ![EnCase](https://img.shields.io/badge/EnCase-3E4A61?style=flat-square&logo=encase&logoColor=white)
 
+<hr style="border:1px solid #4d4d4d; margin: 20px 0;">
+
 ## Certifications 🎓
 
-![IBM Penetration Testing, Incident Response](https://img.shields.io/badge/IBM-Penetration%20Testing%2C%20Incident%20Response-1F70C1?style=flat-square&logo=ibm&logoColor=white)
+![IBM Penetration Testing, Incident Response & Forensics](https://img.shields.io/badge/IBM-PenTesting%2C%20IR%20%26%20Forensics-1F70C1?style=flat-square&logo=ibm&logoColor=white)
 ![ISC2 Candidate](https://img.shields.io/badge/(ISC)²-Candidate-006400?style=flat-square&logo=isc2&logoColor=white)
-![Security Onion Certified Professional](https://img.shields.io/badge/Security%20Onion-Certified%20Professional-333333?style=flat-square&logo=shield&logoColor=white)
 ![Cisco Networking Academy](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Security Onion Certified Professional](https://img.shields.io/badge/Security%20Onion-Certified%20Professional-333333?style=flat-square&logo=shield&logoColor=white)
 ![MCC Certified in Cybersecurity](https://img.shields.io/badge/MCC-Certified%20in%20Cybersecurity-blue?style=flat-square&logo=gov&logoColor=white)
