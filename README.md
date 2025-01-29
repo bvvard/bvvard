@@ -7,7 +7,7 @@ With a strong focus on **NIST 800-171** and **CMMC 2.0** compliance, I’m dedic
 ### About Me 🚀
 - 🌱 Currently developing an open-source **SIEM platform** focused on optimizing security incident detection, analysis, and response.
 - ☕ Coffee enthusiast, experimenting with various brewing techniques in search of the perfect cup.
-- 🔍 Expertise in **CMMC compliance** with a deep understanding of its implications for the **Defense Industrial Base (DiB)**.
+- 🔍 Specializing in **CMMC compliance** with a deep understanding of its implications for the **Defense Industrial Base (DiB)**.
 
 <hr style="border:1px solid #4d4d4d; margin: 20px 0;">
 
