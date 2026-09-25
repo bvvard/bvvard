@@ -1,4 +1,4 @@
-# Hello 👋, I'm Brian [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-w-7a71b715a/) ![Open Source ❤️](https://img.shields.io/badge/Open%20Source-3FB950?style=flat-square&logo=open-source-initiative&logoColor=white) !
+# Hello 👋, I'm Brian [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-w-7a71b715a/) ![Open Source ❤️](https://img.shields.io/badge/Open%20Source-3FB950?style=flat-square&logo=open-source-initiative&logoColor=white)
 
 🌐 **Incident Response Manager** | 💻 **Cybersecurity Professional** | ☁️ **DevSecOps Enthusiast**
 
